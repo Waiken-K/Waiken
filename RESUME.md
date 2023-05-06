@@ -14,10 +14,10 @@ Hi, I am Waiken Kuang(Chinese:邝伟健; pinyin:kuàng wěi jiàn), a Senior Sof
 
 ##  📃 Experience
 
-### HSBC Software Development Co.,Ltd - Guangzhou
+### HSBC Software Development Co.,Ltd - Guangzhou (Apr 2023 - Now)
 *Engaged in computer software (system) development, design, maintenance, sales, technology transfer, technical consultation and services for HSBC Group and other domestic and foreign customers, with business all over the world.*
 
-#### Full Stack Developer(Apr 2023 - Now)
+#### Full Stack Developer
 
 * SaaS system develop
 
@@ -33,10 +33,10 @@ Hi, I am Waiken Kuang(Chinese:邝伟健; pinyin:kuàng wěi jiàn), a Senior Sof
 [//]: # (* Build a tool to generate offline HTML files from unscheduled update docs which helps reduce developers' time on documents calibration dramatically.)
 
 
-### Country Garden Group - Foshan
+### Country Garden Group - Foshan (Jan 2023 - Sep 2019)
 *Provide intelligent construction solutions*
 
-#### Java Developer (Jan 2023 - Sep 2019)
+#### Java Developer 
 
 * Help managers build the team, including interviewing back-end developers, training and mentoring interns. Establish specifications and documentation for team and project management. Arrange and schedule the developing task by iterative demand.
 
@@ -46,10 +46,10 @@ Hi, I am Waiken Kuang(Chinese:邝伟健; pinyin:kuàng wěi jiàn), a Senior Sof
 
 [//]: # (* Built and operated Wechat Mini Program to sell products.)
 
-### Skyworth Group - Shenzhen
-*Its subsidiaries design, manufacture and sell televisions and other audio-visual products. They also invest in properties.* ([HKG:0751](http://www.skyworth.com/))*
+### Skyworth Group - Shenzhen (July 2017 - Sep 2019)
+*Its subsidiaries design, manufacture and sell televisions and other audio-visual products. They also invest in properties. ([HKG:0751](http://www.skyworth.com/))*
 
-#### Embedded software Developer (Jan 2023 - Sep 2019)
+#### Embedded software Developer 
 
 * Responsible for smart home products, smart meeting products development. Such as smart door lock, smart door,smart meeting pad etc.
 
